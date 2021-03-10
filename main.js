@@ -26,7 +26,7 @@ ctx.arc(490, 210, 40, 0, 2*Math.PI)
 ctx.stroke();
 
 ctx.beginPath();
-ctx.strokeStyle = "yellow";
+ctx.strokeStyle = "coral";
 ctx.lineWidth = 5;
 ctx.arc(340, 250, 40, 0, 2*Math.PI)
 ctx.stroke();
